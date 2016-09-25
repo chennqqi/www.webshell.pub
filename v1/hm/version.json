@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "hm",
+    "description": "河马扫描器-轻巧好用的网站后门查杀工具",
+    "windows-386": {
+        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip",
+        "md5": "C5F03DD18A866D41B45BDCE24511A203",
+        "sha1": "18DE0216E8F57C5A6E71A89B9771B26366B50A27"
+    },
+    "linux-386": {
+        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-linux-386.tgz",
+        "md5": "D706A88D2ACC597ADB0A05AC0245C4AA",
+        "sha1": "C44D52B3F46A4F85F8C7D309D3FF9E6E73E3D389"
+    },
+    "linux-amd64": {
+        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.zip",
+        "md5": "CB75A3E06E90AB448CCBD71064D8C94F",
+        "sha1": "C4A4629D6418CEDA97DA0964EDA569FC33CFAC13"
+    },
+    "releasenote": "首发"
+}
