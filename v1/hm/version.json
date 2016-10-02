@@ -1,21 +1,21 @@
 {
     "version": "1.0.1",
     "name": "hm",
-    "description": "河马扫描器-轻巧好用的网站后门查杀工具",
-    "windows-386": {
-        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip",
-        "md5": "C5F03DD18A866D41B45BDCE24511A203",
-        "sha1": "18DE0216E8F57C5A6E71A89B9771B26366B50A27"
-    },
+    "description": "hm -a magic webshell scanner",
     "linux-386": {
         "url": "http://www.webshell.pub/download/hm/1.0.0/hm-linux-386.tgz",
-        "md5": "D706A88D2ACC597ADB0A05AC0245C4AA",
-        "sha1": "C44D52B3F46A4F85F8C7D309D3FF9E6E73E3D389"
+        "md5": "4ff3e7463cadcf7e5b8bba6272be1931",
+        "sha1": "4f21d2f3f8099b7f3e98a6fbf62ec3176e41558c"
+    },
+    "windows-386": {
+        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip",
+        "md5": "af5031762c8da80d8381e4aed697ea09",
+        "sha1": "b8b20573e7cc2ff3d39ffc1ef44ff3d034e9db3c"
     },
     "linux-amd64": {
-        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.zip",
-        "md5": "CB75A3E06E90AB448CCBD71064D8C94F",
-        "sha1": "C4A4629D6418CEDA97DA0964EDA569FC33CFAC13"
+        "url": "http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.tgz",
+        "md5": "7677e4cb703b6d3d8c663d1ac17b8010",
+        "sha1": "388ec94bc51efd6132d2deb62576c91d1aa323f2"
     },
-    "releasenote": "首发"
+    "releasenote": "1.0.0"
 }
