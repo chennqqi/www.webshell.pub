@@ -34,7 +34,7 @@
 
 	配置环境变量可以让您在命令行下直接输入程序名来使用；如果没有配置环境变量则需要输入程序的完整路径
 
-	参考:[百度经验-如何配置环境变量](https://www.baidu.com/s?wd=%E8%AE%BE%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&rsv_spt=1&rsv_iqid=0xd8aa00d600018d97&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&oq=windows%20%E8%AE%BE%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&rsv_t=c140JCEh7RjNVwW%2BlVBae6aVHuPpg67WHh91JMUw%2BNBNJGE5CbnWMa5RksJxVXEiAgyo&inputT=397&rsv_pq=c6997b5d0001c0ae&rsv_sug3=10&rsv_sug1=8&rsv_sug7=100&rsv_sug2=0&rsv_sug4=397&rsv_sug=2)
+	参考:[百度经验-如何配置环境变量](http://jingyan.baidu.com/article/3ea51489e1c2b752e61bbad0.html)
 	
 
 4. 使用

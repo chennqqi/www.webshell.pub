@@ -1,4 +1,4 @@
-#河马 webshell扫描器 for windows 使用手册
+#河马 webshell扫描器 for Linux 使用手册
 
 [首页](http://www.webshell.pub)                 
 [在线查杀](http://n.webshell.pub)
