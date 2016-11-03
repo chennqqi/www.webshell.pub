@@ -170,10 +170,10 @@
                 </div>
               </div>
 
-                <div id="webshell-links" class="col-md-3 col-sm-6">
-                    <div class="friend-links bmodule" id="friend-links">
+                <div id="webshell-links" class="col-md-4 col-sm-6">
                         <h2 id="caption">友情链接</h2>
-                        <p>
+                    <div class="friend-links wow fadeInUp" data-wow-delay="0.6s" id="friend-links">
+                    <p>
                             <a href="http://n.webshell.pub/" target="_blank">在线webshell查杀</a>
                             <a class="linkl" href="http://bobao.360.cn/openapi" target="_blank" title="开源中国开放 API">安全客</a>
                             <a class="linkl" href="http://www.freebuf.com/" target="_blank">freebuf</a>
@@ -188,24 +188,28 @@
 
 <!-- modal -->
 <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" style="width: 700px;">
-      <div class="modal-content modal-popup">
+  <div class="modal-dialog">
+      <div class="modal-content modal-popup" style="width:700px;">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h2 class="modal-title">下载中心</h2>
-					<p>欢迎使用河马webshell查杀工具！</p>
+            <h2 class="modal-title">应用中心</h2>
+            <p>欢迎使用河马webshell查杀！</p>
         </div>
-
 					<!--<p><a href="" class="btn btn-lg btn-default smoothScroll wow fadeInUp">windows</a></p>-->
-					<p><a href="http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-windows"></i> windows</a>&nbsp;
-						<a href="http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.tgz" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-linux"></i> linux amd64</a>&nbsp;
-						<a href="http://www.webshell.pub/download/hm/1.0.0/hm-linux-386.tgz" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-linux"></i> linux 386</a>&nbsp;
-						<a href="http://n.webshell.pub" class="btn btn-lg btn-success smoothScroll wow fadeInUp" data-wow-delay="1.0s">在线查杀</a>
-					</p>
-					<p>&nbsp;</p>
-					<!--<p><a href="http://n.webshell.pub" class="btn btn-lg btn-success smoothScroll wow fadeInUp" data-wow-delay="1.0s">在线查杀</a></p>-->
-					<p>验证软件是否被篡改请点击 <a href="https://github.com/chennqqi/www.webshell.pub/blob/gh-pages/v1/hm/version.json">验证</a></p>
+                    <div class="row">
+                    <a href="http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-windows"></i> windows</a>&nbsp;
+					<a href="http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.tgz" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-linux"></i> linux amd64</a>&nbsp;
+					<a href="http://www.webshell.pub/download/hm/1.0.0/hm-linux-386.tgz" class="btn btn-lg btn-default smoothScroll wow fadeInUp"><i class="fa fa-linux"></i> linux 386</a>&nbsp;
+					<a href="http://n.webshell.pub" class="btn btn-lg btn-success smoothScroll wow fadeInUp" data-wow-delay="1.0s"><i class="fa fa-chrome" aria-hidden="true"></i> 在线查杀</a>
+                    </div>
+    		    <p>&nbsp;
+                </p>
 
+          <ul class="list-group">
+              <li><a class="" href="http://www.webshell.pub/doc/verifyhash.html"><i class="fa fa-file-word-o" aria-hidden="true"></i> 验证哈希</a></li>
+              <li><a class="" href="http://www.webshell.pub/doc/hm_linux_usage.html"><i class="fa fa-file-word-o" aria-hidden="true"></i> linux版教程</a></li>
+              <li><a class="" href="http://www.webshell.pub/doc/hm_win_usage.html"><i class="fa fa-file-word-o" aria-hidden="true"></i> windows版教程</a></li>
+          </ul>
       </div>
   </div>
 </div>
