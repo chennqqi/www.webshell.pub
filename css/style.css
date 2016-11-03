@@ -352,8 +352,27 @@ footer {
   background: #111112;
 }
 
+/*
 footer .copyright-text {
   padding-top: 10px;
+}*/
+
+.friend-links .linkl{
+    color:#7f7f7f;
+/*    font-size: 10pt;*/
+    font-family: "Microsoft YaHei", Verdana, sans-serif, "SimSun";
+}
+
+.friend-links{
+    text-align: left;
+
+    /*    width: 998px;
+    padding-left: 80px;*/
+}
+
+.friend-links p {
+    padding: 5px;
+    line-height: 20px;
 }
 
 footer a {
