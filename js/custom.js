@@ -13,7 +13,7 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'http://7xrn7f.com1.z0.glb.clouddn.com/16-11-4/76901343.jpg' }
+            { src: 'images/slide-1.jpg' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
