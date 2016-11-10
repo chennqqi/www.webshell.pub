@@ -399,7 +399,7 @@ footer a:hover {
 
 /* modal */
 .modal-dialog .modal-content {
-  background: url('../images/modal-bg.jpg') no-repeat;
+  background: url('http://ogfg2t32i.bkt.clouddn.com/images/modal-bg.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 0;
