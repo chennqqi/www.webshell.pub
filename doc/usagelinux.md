@@ -26,11 +26,11 @@
 	可以使用wget进行下载，在按钮上【鼠标右键】->【复制链接地址】
 	
 	下载64位版本
-	wget http://www.webshell.pub/download/hm/1.0.0/hm-linux-amd64.tgz
+	wget http://www.webshell.pub/download/hm/1.2.0/hm-linux-amd64.tgz
 
 
 	下载32位版本
-	wget http://www.webshell.pub/download/hm/1.0.0/hm-linux-386.tgz
+	wget http://www.webshell.pub/download/hm/1.2.0/hm-linux-386.tgz
 
 	以上路径会随着版本更新而变化，请从下载中心获取最新版本
 

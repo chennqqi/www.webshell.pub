@@ -17,7 +17,7 @@
 	点击【立即使用】进入下载中心
 
 	![下载中心](images/download.jpg)
-	点击windows按钮[下载windows版本](http://www.webshell.pub/download/hm/1.0.0/hm-windows-386.zip)
+	点击windows按钮[下载windows版本](http://www.webshell.pub/download/hm/1.2.0/hm-windows-386.zip)
 	
 2. 解压缩
 	
